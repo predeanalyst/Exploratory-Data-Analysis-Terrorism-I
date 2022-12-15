@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Terrorism-I
+# Exploratory-Data-Analysis-Terrorism
 THE SPARKS FOUNDATION AUTHOR: PRECIOUS IYEKEORETIN Exploratory Data Analysis-Terrorism It's required to find out the hot zone of terrorism.
 ## Insights: 
 * Country with Highest Terrorist Attacks: Iraq
